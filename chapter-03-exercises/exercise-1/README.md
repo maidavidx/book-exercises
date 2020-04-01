@@ -15,6 +15,9 @@ In this exercise you'll practice using git to clone and edit repositories, as wi
 2. Peanubutter
 3. Rice cracker
 
+1. Noodles
+2. Coffee
+
 6. Using your terminal, add and commit the changes you've made to your repository
 
 7. Push changes up to GitHub, and view them in your web browser. Make sure you are looking at the repository under _your_ account!
