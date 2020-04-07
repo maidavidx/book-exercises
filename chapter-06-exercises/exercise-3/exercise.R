@@ -21,9 +21,9 @@ ten <- add_three(7)
 
 imperial_to_metric <- function(feet, inches) {
   
-  inches_sum = (feet * 12) + inches
+  inches_sum <- (feet * 12) + inches
   
-  meters = inches_sum / 39.37
+  meters <- inches_sum / 39.37
   
   meters
 }
